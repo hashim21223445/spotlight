@@ -58,7 +58,7 @@
     "base64-img": "^1.0.4",
     "cpx": "^1.5.0",
     "csso": "^4.2.0",
-    "csso-cli": "^3.0.0",
+    "csso-cli": "^4.0.2",
     "google-closure-compiler": "^20210406.0.0",
     "less": "^4.1.1",
     "less-plugin-autoprefix": "^2.0.0",
